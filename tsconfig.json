@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "isolatedModules": true,
+        "module": "ESNext",
+        "moduleResolution": "bundler",
+        "resolveJsonModule": true,
+        "jsx": "preserve",
+        "jsxImportSource": "vue",
+        "strict": true,
+        "verbatimModuleSyntax": true,
+        "target": "ES5",
+        "useDefineForClassFields": true
+    }
+}
